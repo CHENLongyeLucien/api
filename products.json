@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "nom": "Laptop Pro 15''",
+    "categorie": "Électronique",
+    "sous_categorie": "Ordinateurs portables",
+    "prix": 1499.99,
+    "disponibilite": true,
+    "description": "Ordinateur portable haute performance pour professionnels",
+    "tags": ["portable", "pro", "16GB RAM", "SSD 512GB"],
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "nom": "Smartphone X200",
+    "categorie": "Électronique",
+    "sous_categorie": "Téléphones",
+    "prix": 899.99,
+    "disponibilite": true,
+    "description": "Smartphone avec écran OLED et caméra 108MP",
+    "tags": ["smartphone", "5G", "OLED", "128GB"],
+    "stock": 40
+  },
+  {
+    "id": 3,
+    "nom": "Audit SEO",
+    "categorie": "Services",
+    "sous_categorie": "Marketing digital",
+    "prix": 1200.00,
+    "disponibilite": true,
+    "description": "Audit complet de votre site web pour améliorer le référencement",
+    "tags": ["SEO", "audit", "web"],
+    "stock": null
+  },
+  {
+    "id": 4,
+    "nom": "Formation Python",
+    "categorie": "Services",
+    "sous_categorie": "Formation",
+    "prix": 600.00,
+    "disponibilite": true,
+    "description": "Cours intensif de Python pour débutants et intermédiaires",
+    "tags": ["formation", "Python", "coding", "débutant"],
+    "stock": null
+  },
+  {
+    "id": 5,
+    "nom": "Écran 27'' 4K",
+    "categorie": "Électronique",
+    "sous_categorie": "Moniteurs",
+    "prix": 399.99,
+    "disponibilite": true,
+    "description": "Moniteur 4K pour graphistes et professionnels",
+    "tags": ["4K", "IPS", "gaming", "graphisme"],
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "nom": "Clavier mécanique RGB",
+    "categorie": "Électronique",
+    "sous_categorie": "Périphériques",
+    "prix": 129.99,
+    "disponibilite": true,
+    "description": "Clavier mécanique rétroéclairé pour gamers et développeurs",
+    "tags": ["clavier", "mécanique", "RGB"],
+    "stock": 50
+  },
+  {
+    "id": 7,
+    "nom": "Imprimante Laser Pro",
+    "categorie": "Électronique",
+    "sous_categorie": "Imprimantes",
+    "prix": 499.99,
+    "disponibilite": true,
+    "description": "Imprimante laser haute vitesse pour bureau",
+    "tags": ["imprimante", "laser", "bureau"],
+    "stock": 20
+  },
+  {
+    "id": 8,
+    "nom": "Abonnement Cloud Pro",
+    "categorie": "Services",
+    "sous_categorie": "Cloud",
+    "prix": 99.99,
+    "disponibilite": true,
+    "description": "Stockage cloud sécurisé avec support 24/7",
+    "tags": ["cloud", "stockage", "sécurité"],
+    "stock": null
+  },
+  {
+    "id": 9,
+    "nom": "Caméra de sécurité 4K",
+    "categorie": "Électronique",
+    "sous_categorie": "Sécurité",
+    "prix": 299.99,
+    "disponibilite": true,
+    "description": "Caméra IP avec vision nocturne et détection de mouvement",
+    "tags": ["caméra", "IP", "4K", "sécurité"],
+    "stock": 30
+  },
+  {
+    "id": 10,
+    "nom": "Serveur Rack 2U",
+    "categorie": "Électronique",
+    "sous_categorie": "Serveurs",
+    "prix": 2500.00,
+    "disponibilite": true,
+    "description": "Serveur puissant pour data center ou entreprise",
+    "tags": ["serveur", "rack", "enterprise", "CPU haute performance"],
+    "stock": 5
+  },
+  {
+    "id": 11,
+    "nom": "Souris ergonomique",
+    "categorie": "Électronique",
+    "sous_categorie": "Périphériques",
+    "prix": 49.99,
+    "disponibilite": true,
+    "description": "Souris ergonomique sans fil pour bureau",
+    "tags": ["souris", "ergonomique", "sans fil"],
+    "stock": 60
+  },
+  {
+    "id": 12,
+    "nom": "Service de cybersécurité",
+    "categorie": "Services",
+    "sous_categorie": "Sécurité informatique",
+    "prix": 3000.00,
+    "disponibilite": true,
+    "description": "Protection complète des systèmes d’entreprise contre les cyberattaques",
+    "tags": ["cybersécurité", "audit", "protection"],
+    "stock": null
+  },
+  {
+    "id": 13,
+    "nom": "Tablette graphique Pro",
+    "categorie": "Électronique",
+    "sous_categorie": "Tablettes graphiques",
+    "prix": 599.99,
+    "disponibilite": true,
+    "description": "Tablette graphique pour artistes et designers",
+    "tags": ["tablette", "graphique", "art", "design"],
+    "stock": 18
+  },
+  {
+    "id": 14,
+    "nom": "Projecteur 4K",
+    "categorie": "Électronique",
+    "sous_categorie": "Vidéo",
+    "prix": 899.99,
+    "disponibilite": true,
+    "description": "Projecteur 4K pour présentations et home cinéma",
+    "tags": ["projecteur", "4K", "cinéma"],
+    "stock": 10
+  },
+  {
+    "id": 15,
+    "nom": "Service Cloud Backup",
+    "categorie": "Services",
+    "sous_categorie": "Cloud",
+    "prix": 149.99,
+    "disponibilite": true,
+    "description": "Sauvegarde automatique de données avec accès sécurisé",
+    "tags": ["backup", "cloud", "sécurité"],
+    "stock": null
+  },
+  {
+    "id": 16,
+    "nom": "Microphone USB Pro",
+    "categorie": "Électronique",
+    "sous_categorie": "Audio",
+    "prix": 129.99,
+    "disponibilite": true,
+    "description": "Microphone USB haute qualité pour streaming et podcast",
+    "tags": ["microphone", "USB", "pro", "audio"],
+    "stock": 35
+  },
+  {
+    "id": 17,
+    "nom": "Casque audio Noise-Canceling",
+    "categorie": "Électronique",
+    "sous_categorie": "Audio",
+    "prix": 199.99,
+    "disponibilite": true,
+    "description": "Casque audio avec suppression active du bruit",
+    "tags": ["casque", "audio", "noise-canceling"],
+    "stock": 45
+  },
+  {
+    "id": 18,
+    "nom": "Support technique VIP",
+    "categorie": "Services",
+    "sous_categorie": "Support",
+    "prix": 499.99,
+    "disponibilite": true,
+    "description": "Support technique prioritaire pour entreprises",
+    "tags": ["support", "VIP", "technique"],
+    "stock": null
+  },
+  {
+    "id": 19,
+    "nom": "Chaise de bureau ergonomique",
+    "categorie": "Mobilier",
+    "sous_categorie": "Chaises",
+    "prix": 299.99,
+    "disponibilite": true,
+    "description": "Chaise ergonomique pour bureau avec appui lombaire",
+    "tags": ["bureau", "ergonomique", "confort"],
+    "stock": 20
+  },
+  {
+    "id": 20,
+    "nom": "Table de conférence",
+    "categorie": "Mobilier",
+    "sous_categorie": "Tables",
+    "prix": 999.99,
+    "disponibilite": true,
+    "description": "Grande table de conférence en bois massif pour salle de réunion",
+    "tags": ["conference", "table", "bois"],
+    "stock": 5
+  }
+]
